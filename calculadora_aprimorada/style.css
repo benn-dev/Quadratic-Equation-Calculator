@@ -1,0 +1,9 @@
+#instrucoes{
+	display: block;
+	background: #ccc;
+	border: 2px red solid;
+	width: 25%;
+	float:right;
+	font-size: 0.8em;
+
+}
